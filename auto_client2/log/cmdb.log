@@ -1,0 +1,5 @@
+2019-07-06 16:45:43,165 - cmdb - ERROR -logger:  Traceback (most recent call last):
+  File "D:\练习\python-S25\auto_client2\src\plugins\disk.py", line 20, in linux
+    with open(os.path.join(self.path, 'di22222sk.out')) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\练习\\python-S25\\auto_client2\\files\\di22222sk.out'
+
